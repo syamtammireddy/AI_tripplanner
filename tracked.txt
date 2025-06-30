@@ -1,0 +1,21 @@
+.gitignore
+package-lock.json
+package.json
+public/Screenshot 2024-09-11 121636.png
+public/enhanced_screenshot_2024_10_05.png
+public/flight.img.jpg
+public/forgot-password.css
+public/home.css
+public/image.png
+public/login.css
+public/my-trips.css
+public/reset-password.css
+public/reviewpage.css
+public/signup.css
+public/trip-details.css
+public/trip-result.css
+public/uploads.css
+public/user-trip-img.css
+public/userprofile.css
+src/index.js
+src/mongodb.js
